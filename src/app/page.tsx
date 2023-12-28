@@ -7,10 +7,10 @@ export default function App() {
       <CardHeader className="flex gap-3">
         <Image
           alt="nextui logo"
-          height={80}
+          height={90}
           radius="sm"
           src="https://avatars.githubusercontent.com/u/86160567?s=200&v=4"
-          width={80}
+          width={90}
         />
         <div className="flex flex-col">
           <p className="text-md">NextUI</p>
